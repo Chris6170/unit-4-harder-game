@@ -4,9 +4,10 @@
 }
 
 body{
-    margin-left: 300px;
+   
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHcjC7VsBEC4JmiELhtZRZhUiMnbllx44dux4dtQ4dC7aosxHUFA);
     color: aqua;
+    
 }
 
 
@@ -14,9 +15,39 @@ body{
 
     background-color:black ;
     color: dodgerblue;
-    margin-left: -300px;
+  
 }
 
 
+@media screen and (max-width: 480px) {
+    img{
+        height: 100px;
+        width: 100px;
+        margin-top: 10pxpx;
+        margin-left: 100px;
 
+
+    }
+
+    #fight{
+
+        margin-left: 100px;
+
+
+    }
+
+    h1{
+
+        font-size: 30px;
+    }
+
+    .jumbotron{
+        margin-left: 10px;
+
+      
+      
+    }
     
+
+
+}
