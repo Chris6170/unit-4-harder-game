@@ -1,0 +1,22 @@
+ img{
+    height: 150px;
+    width: 150px;
+}
+
+body{
+    margin-left: 300px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHcjC7VsBEC4JmiELhtZRZhUiMnbllx44dux4dtQ4dC7aosxHUFA);
+    color: aqua;
+}
+
+
+.jumbotron{
+
+    background-color:black ;
+    color: dodgerblue;
+    margin-left: -300px;
+}
+
+
+
+    
